@@ -1,1 +1,2 @@
-# Flutter_TDD
+# [Flutter_TDD](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech)
+>   This repository contains the codebase for this [Flutter crash course](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech)
